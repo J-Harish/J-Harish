@@ -52,5 +52,5 @@ Hello! I'm **Harish Jagu**, a passionate **Full Stack Developer** and **Ui/Ux De
 
 ## 🌟 Leadership & Impact
 
-- 📷 **PHOTOGRAPHY CLUB** Lead Coordinator MRDU 
+- 📷 **Adyant CSE Community** Digital Lead MRDU 
 
